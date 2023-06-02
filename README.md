@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-Hello, I am Nomah S.
+###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 ====================
 
 [Linkedin](https://www.linkedin.com/in/nomahlubi-s-hadebe-549381247) [Website](https://3rdtimecoder.netlify.app) [CodePen](https://codepen.io/3rdtimecoder)
