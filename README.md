@@ -1,5 +1,4 @@
-<body style="padding:0; margin:0; box-sizing: border-box;">
-    <div id="container" style="background-color: #24233c; 
+<div id="container" style="background-color: #24233c; 
         background-image: linear-gradient(43deg, #24233c 0%, #936d80 33%, #cb6571 100%); 
         background-size: cover; background-position: center center; width:100%; height:100%;
         display:flex; flex-direction: column; justify-content: center; align-items: center;
@@ -29,4 +28,3 @@
                 </div>
             </div>
         </div>
-</body>
