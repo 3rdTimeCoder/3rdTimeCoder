@@ -59,11 +59,11 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3rdTimeCoder&show_icons=true&bg_color=24233c,936d80,936d80&title_color=fff&text_color=fff" alt="repo stats"> 
-</p>
+</p> -->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3rdTimeCoder&layout=compact&bg_color=24233c,936d80,936d80&title_color=fff&text_color=fff" alt="repo stats"> 
 </p> -->
