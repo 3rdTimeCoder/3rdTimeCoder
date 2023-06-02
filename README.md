@@ -64,7 +64,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3rdTimeCoder&show_icons=true&bg_color=24233c,936d80,936d80&title_color=fff&text_color=fff" alt="repo stats"> 
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3rdTimeCoder&layout=compact&bg_color=24233c,936d80,936d80&title_color=fff&text_color=fff" alt="repo stats"> 
-</p>
+</p> -->
 
