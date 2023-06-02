@@ -21,17 +21,19 @@
   
   <p align="center">
     <a href="https://git.io/typing-svg](https://www.linkedin.com/in/nomahlubi-s-hadebe-549381247">
-      Linkedin
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23>
     </a>
     <a href="https://3rdtimecoder.netlify.app">
-      Website
+      <img src="https://img.shields.io/badge/website-D14836?.svg?&style=for-the-badge&logo=website&logoColor=white" height=23>
     </a>
      <a href="https://codepen.io/3rdtimecoder">
-      CodePen
+       <img src="https://img.shields.io/badge/codepen-%230077B5.svg?&style=for-the-badge&logo=codepen&logoColor=white" height=23>
     </a>
   </p>
 </p>
 <hr>
+
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 
 
 
