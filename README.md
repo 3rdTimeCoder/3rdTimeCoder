@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Nomah+S.;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Nomah+S.;aka+3rdTimeCoder&center=true&size=30">
   </a>
 </h1>
 
@@ -8,9 +8,9 @@
 <hr> -->
 
 <p align="center">
-  Hello, I'm Nomah S. aka the 3rdtimeCoder. 
-  <br>
-  A Tech Enthusiast & Software Developer from South Africa.
+<!--   Hello, I'm Nomah S. aka the 3rdtimeCoder. 
+  <br> -->
+  I am a Tech Enthusiast & Software Developer from South Africa.
   <br>
   <br>
   👨‍🎓 I'm currently a student at WeThinkCode, one of the top coding bootcamps in Africa, learning Software Development in a rigorous 16 month programme.
