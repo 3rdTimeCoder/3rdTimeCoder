@@ -4,10 +4,34 @@
   </a>
 </h1>
 
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-====================
+<!-- <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+<hr> -->
 
-[Linkedin](https://www.linkedin.com/in/nomahlubi-s-hadebe-549381247) [Website](https://3rdtimecoder.netlify.app) [CodePen](https://codepen.io/3rdtimecoder)
+<p align="center">
+  Hello, I'm Nomah S. aka the 3rdtimeCoder. 
+  <br>
+  A Tech Enthusiast & Software Developer from South Africa.
+  <br>
+  <br>
+  👨‍🎓 I'm currently a student at WeThinkCode, one of the top coding bootcamps in Africa, learning Software Development in a rigorous 16 month programme.
+  <br>
+<!--   <br>
+  💻 I love Writing code, Hardware and learning anything about them 😊
+  <br> -->
+  
+  <p align="center">
+    <a href="https://git.io/typing-svg](https://www.linkedin.com/in/nomahlubi-s-hadebe-549381247">
+      Linkedin
+    </a>
+    <a href="https://3rdtimecoder.netlify.app">
+      Website
+    </a>
+     <a href="https://codepen.io/3rdtimecoder">
+      CodePen
+    </a>
+  </p>
+</p>
+<hr>
 
 
 
