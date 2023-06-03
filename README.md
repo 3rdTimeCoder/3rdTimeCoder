@@ -20,7 +20,7 @@
   <br> -->
   
   <p align="center">
-    <a href="https://git.io/typing-svg](https://www.linkedin.com/in/nomahlubi-s-hadebe-549381247">
+    <a href="https://www.linkedin.com/in/nomahlubi-s-hadebe-549381247">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23>
     </a>
     <a href="https://3rdtimecoder.netlify.app">
