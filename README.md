@@ -55,7 +55,8 @@
   <img title="JSON" height="25" src="images/json.svg">
   <img title="Git" height="25" src="images/git-original.svg">
   <img title="GitHub" height="25" src="images/github.svg">
-  <img title="Bash" height="35" src="images/bash.png">
+  <img title="GitLab" height="25" src="images/gitlab.png">
+  <img title="Bash" height="35" src="images/bash2.png">
 <!--   <img title="IntelliJ" height="25" src="images/docker.png"> -->
   <img title="Visual Studio Code" height="25" src="images/vscode.png">
   <img title="IntelliJ" height="25" src="images/intelliJ.png">
