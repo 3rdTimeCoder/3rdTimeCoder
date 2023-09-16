@@ -12,9 +12,9 @@
   <br> -->
   I am a Tech Enthusiast & Software Developer from South Africa.
   <br>
-  <br>
-  👨‍🎓 I'm currently a student at WeThinkCode_ one of the top coding bootcamps in Africa, learning Software Development in a rigorous 16 month programme.
-  <br>
+<!--   <br> -->
+<!--   👨‍🎓 I'm currently a student at WeThinkCode_ one of the top coding bootcamps in Africa, learning Software Development in a rigorous 16 month programme. -->
+<!--   <br> -->
 <!--   <br>
   💻 I love Writing code... ... ... eloborate
   <br> -->
