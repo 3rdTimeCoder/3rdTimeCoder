@@ -33,14 +33,6 @@
 </p>
 <hr>
 
-<h2 align="center">
-  <img src="/images/Developer.gif" alt="developer gif"  height="45px"> 
-  Languages, Frameworks, Tools & Abilities
-  <img src="/images/Developer.gif" alt="developer gif"  height="45px"> 
-</h2>
-<br>
-<hr>
-
 <!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
