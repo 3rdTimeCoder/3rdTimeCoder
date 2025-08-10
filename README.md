@@ -4,20 +4,9 @@
   </a>
 </h1>
 
-<!-- <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-<hr> -->
-
 <p align="center">
-<!--   Hello, I'm Nomah S. aka the 3rdtimeCoder. 
-  <br> -->
-  I am a Tech Enthusiast & Software Developer from South Africa.
+  Broke up with programming twice, came back for a third date… now we’re inseparable 💻✨. 
   <br>
-<!--   <br> -->
-<!--   👨‍🎓 I'm currently a student at WeThinkCode_ one of the top coding bootcamps in Africa, learning Software Development in a rigorous 16 month programme. -->
-<!--   <br> -->
-<!--   <br>
-  💻 I love Writing code... ... ... eloborate
-  <br> -->
   
   <p align="center">
     <a href="https://www.linkedin.com/in/nomahlubi-s-hadebe-549381247" target="_blank">
